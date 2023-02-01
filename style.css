@@ -187,7 +187,7 @@ body{
         text-align: center;
     }
     .secundario__imagem {
-        width: 50vw;
+        width: 100%;
     }
 
     .dispositivos__lista {
